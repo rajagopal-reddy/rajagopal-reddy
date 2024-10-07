@@ -7,7 +7,7 @@ mindset. Seeking challenging role to leverage skills within a forward-thinking e
 
 - 🌍 I'm based in Hyderabad
 - 💼 Currently working at Training Mug
-- 🎓 I am a B.Tech graduated in 2023
+- 🎓 My highest education is B.Tech graduated in 2023
 - 🌱 I’m currently learning Rust, Node.js, React.js
 - ✨ I enjoy working on building applications
 - 📫 How to reach me: rajagopalreddy337@gmail.com
