@@ -1,22 +1,23 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm N Raja Gopal Reddy! 👋
 
 ## 👨‍💻 About Me
 
-I am a [Your Profession, e.g., Full Stack Java Developer] with a passion for building web applications and learning new technologies. Currently, I'm focused on [Your Area of Focus, e.g., full-stack development, machine learning, etc.].
+I am a passionate Software Developer, I demonstrate strong problem solving skills, adaptability and collaborative
+mindset. Seeking challenging role to leverage skills within a forward-thinking environment..
 
-- 🌍 I'm based in [Your Location]
-- 💼 Currently working at [Your Company/Organization or freelancing]
-- 🎓 I have a degree in [Your Degree and Major]
-- 🌱 I’m currently learning [Technologies/Skills you're learning]
-- ✨ I enjoy working on [Your Interests, e.g., open-source projects, building apps, etc.]
-- 📫 How to reach me: [Your Email or Other Contact Details]
+- 🌍 I'm based in Hyderabad
+- 💼 Currently working at Training Mug
+- 🎓 I am a B.Tech graduated in 2023
+- 🌱 I’m currently learning Rust, Node.js, React.js
+- ✨ I enjoy working on building applications
+- 📫 How to reach me: rajagopalreddy337@gmail.com
 
 ---
 
 ## 🛠️ Skills and Tools
 
 ### Languages:
-- Java, JavaScript, HTML, CSS, Python
+- Java, JavaScript, HTML, CSS, Python, Rust, SQL
 
 ### Frameworks/Libraries:
 - Spring Boot, React.js, Bootstrap, JUnit 5
@@ -28,17 +29,11 @@ I am a [Your Profession, e.g., Full Stack Java Developer] with a passion for bui
 
 ## 🚀 Projects
 
-### [Project 1 Title]
-- A brief description of the project.
-- Technologies used: [List the key technologies]
+### Bank Management using Spring Boot and MongoDB 
+- Transaction management, bill payments, deposits and credits are facilitated .
+- React.js for frontend and Spring Boot for server-side operations, all supported by MongoDB for data handling.
+- Complex exceptions and validations are managed, ensuring smooth user experiences and data accuracy.
 
-[Link to Project](#)
-
-### [Project 2 Title]
-- A brief description of the project.
-- Technologies used: [List the key technologies]
-
-[Link to Project](#)
 
 ---
 
@@ -50,6 +45,6 @@ I am a [Your Profession, e.g., Full Stack Java Developer] with a passion for bui
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [Your LinkedIn URL](#)
-- GitHub: [Your GitHub URL](#)
-- Twitter: [Your Twitter URL (optional)](#)
+- LinkedIn: https://www.linkedin.com/in/raja-gopal-reddy-a542662a6
+- GitHub: https://github.com/rajagopal-reddy
+- Twitter: https://x.com/thegopal_reddy
