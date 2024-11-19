@@ -6,7 +6,7 @@ I am a passionate Software Developer, I demonstrate strong problem solving skill
 mindset. Seeking challenging role to leverage skills within a forward-thinking environment..
 
 - 🌍 I'm based in Hyderabad
-- 💼 Currently working at Training Mug
+- 💼 Currently working at ExcelR
 - 🎓 My highest education is B.Tech graduated in 2023
 - 🌱 I’m currently learning Rust, Node.js, React.js
 - ✨ I enjoy working on building applications
@@ -20,7 +20,7 @@ mindset. Seeking challenging role to leverage skills within a forward-thinking e
 - Java, JavaScript, HTML, CSS, Python, Rust, SQL
 
 ### Frameworks/Libraries:
-- Spring Boot, React.js, Bootstrap, JUnit 5
+- Spring Boot, React.js, Bootstrap, JUnit 5, Hibernate
 
 ### Tools:
 - Git, Docker, Maven, VSCode, IntelliJ
@@ -29,7 +29,7 @@ mindset. Seeking challenging role to leverage skills within a forward-thinking e
 
 ## 🚀 Projects
 
-### Bank Management using Spring Boot and MongoDB 
+### Bank Management using Spring Boot 
 - Transaction management, bill payments, deposits and credits are facilitated .
 - React.js for frontend and Spring Boot for server-side operations, all supported by MongoDB for data handling.
 - Complex exceptions and validations are managed, ensuring smooth user experiences and data accuracy.
